@@ -1,3 +1,3 @@
 # code-in
 Prova per Google code-in
-print marti è bella
+print lele e marti si adorano
